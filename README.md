@@ -2,13 +2,11 @@
 
 This dashboard compares digital advertising performance across platforms (Google Ads, Meta Ads, TikTok Ads), industries, and countries.
 
-![Dashboard Screenshot](screenshots/dashboard.png)
-
 There are 5 screenshots of the Dashboard in the screenshots folder
 
 ## Dataset Used
 
-The Kaggle dataset: [Global Ads Performance](https://www.kaggle.com/datasets/atillacolak/global-ads-performance-google-meta-tiktok)
+The Kaggle dataset: [Global Ads Performance (Google, Meta, TikTok)](https://www.kaggle.com/datasets/nudratabbas/global-ads-performance-google-meta-tiktok?utm_source=chatgpt.com)
 
 ## Instructions to run the project
 
